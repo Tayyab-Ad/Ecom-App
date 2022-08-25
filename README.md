@@ -1,6 +1,7 @@
 # e_commerce_app
 
 A new Flutter project.
+Flutter Course - Assignment-3, Not yet Completed
 
 ## Getting Started
 
